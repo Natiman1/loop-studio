@@ -12,7 +12,7 @@ const CreationSection = () => {
     <section className="relative">
       <div className="text-center justify-between mx-8 mb-6 flex items-center md:mx-20 lg:mx-40 lg:mt-10">
         <h2 className="text-4xl font-light uppercase">our creations</h2>
-        <button className="absolute bottom-0 left-26 -mb-8 border-2 p-5 py-1 text-center font-semibold tracking-[4px] uppercase transition-all hover:bg-black hover:text-white md:relative md:mr-27 md:py-2 md:px-10">
+        <button className="absolute bottom-0 left-31 -mb-8 border-2 p-5 py-1 text-center font-semibold tracking-[4px] uppercase transition-all hover:bg-black hover:text-white md:relative md:mr-27 md:py-2 md:px-10">
           see all
         </button>
       </div>
