@@ -36,7 +36,7 @@ const NavBar = () => {
       />
       <div
         className={clsx(
-          "nav-links font-subHeading fixed top-0 right-0 flex h-full w-full flex-col gap-6 bg-black pt-[118px] pl-8 tracking-wider text-white uppercase md:relative md:flex md:w-auto md:flex-row md:gap-9 md:bg-transparent md:px-0 md:pt-0 md:capitalize",
+          "nav-links font-subHeading fixed top-0 right-0 flex h-full w-full flex-col gap-6 bg-black pt-[300px] pl-8 tracking-wider text-white uppercase md:relative md:flex md:w-auto md:flex-row md:gap-9 md:bg-transparent md:px-0 md:pt-0 md:capitalize",
           isOpen ? "translate-x-0" : "translate-x-full md:translate-x-0",
           "transition-transform duration-300 ease-in-out",
         )}
