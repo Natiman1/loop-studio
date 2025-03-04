@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Natiman1/Space-tourism]
-- Live Site URL: [https://space-tourism-one-dusky.vercel.app/]
+- Solution URL: [https://github.com/Natiman1/loop-studio]
+- Live Site URL: [https://loop-studio-sand.vercel.app/]
 
 ## My process
 
