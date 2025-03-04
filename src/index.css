@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@theme {
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 0%);
+  --color-darkgray: hsl(0, 0%, 55%);
+  --color-verydarkgray: hsl(0, 0%, 41%);
+
+  --font-heading: "Alata";
+  --font-subHeading: "Josefin Sans";
+
+
+}
