@@ -26,7 +26,7 @@ const NavBar = () => {
   };
 
   return (
-    <nav className="z-50 flex w-full items-center justify-between px-8 py-12 md:px-18">
+    <nav className="z-50 flex w-full items-center justify-between px-8 py-12 md:px-18 lg:pl-40 lg:pr-25 lg:pt-16">
       <img src={logo} alt="Logo" className="z-40" />
       <img
         src={isOpen ? close : hamburger}
